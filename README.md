@@ -17,6 +17,7 @@ Oversampling of the data using the RandomOverSampler and SMOTE algorithms, and u
 ## Results
 [credit_risk_resampling](https://github.com/MSF2141/Credit_Risk_Analysis/blob/e3dac1e8ea263f2918c6b63b685fed13fe9cc7f9/credit_risk_resampling.ipynb) code.
 - Naive Random Oversampling
+![Naive%20Random%20Oversampling](https://github.com/MSF2141/Credit_Risk_Analysis/blob/7d7c69787617c3d44effb85f8161b18b11a94422/Naive%20Random%20Oversampling.png)
 
 - SMOTE Oversampling
 
