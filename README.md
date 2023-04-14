@@ -14,4 +14,18 @@ Oversampling of the data using the RandomOverSampler and SMOTE algorithms, and u
 3. Use Ensemble Classifiers to Predict Credit Risk.
 4. A Written Report on the Credit Risk Analysis (README.md).
 
+## Results
+- Naive Random Oversampling
+
+- SMOTE Oversampling
+
+- Undersampling
+
+- Combination Sampling
+
+- Balanced Random Forest Classifier
+
+- Easy Ensemble AdaBoost Classifier 
+
+
 
