@@ -26,6 +26,7 @@ Oversampling of the data using the RandomOverSampler and SMOTE algorithms, and u
 ![Undersampling](https://github.com/MSF2141/Credit_Risk_Analysis/blob/22eca598bb69a3b90981b464be6d44eeb1033fe3/Undersampling.png)
 
 - Combination Sampling
+![Combination%20Sampling](https://github.com/MSF2141/Credit_Risk_Analysis/blob/170429c251b950adecf3cecb8ce9542b18a48115/Combination%20Sampling.png)
 
 - Balanced Random Forest Classifier
 
