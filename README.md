@@ -20,6 +20,7 @@ Oversampling of the data using the RandomOverSampler and SMOTE algorithms, and u
 ![Naive%20Random%20Oversampling](https://github.com/MSF2141/Credit_Risk_Analysis/blob/7d7c69787617c3d44effb85f8161b18b11a94422/Naive%20Random%20Oversampling.png)
 
 - SMOTE Oversampling
+![SMOTE%20Oversampling](https://github.com/MSF2141/Credit_Risk_Analysis/blob/3f1b7078ffc8ec7be978daa47b67d49858cf29de/SMOTE%20Oversampling.png)
 
 - Undersampling
 
