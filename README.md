@@ -32,6 +32,7 @@ Oversampling of the data using the RandomOverSampler and SMOTE algorithms, and u
 ![Balanced%20Random%20Forest%20Classifier](https://github.com/MSF2141/Credit_Risk_Analysis/blob/81fad012eedc5876ff4b430e7dc04c8cc01a2143/Balanced%20Random%20Forest%20Classifier.png)
 
 - Easy Ensemble AdaBoost Classifier 
+![Easy%20Ensemble%20AdaBoost%20Classifier](https://github.com/MSF2141/Credit_Risk_Analysis/blob/4c588a71d47cdd60d5b24cf4dc166285ccf4d9a7/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 
 
