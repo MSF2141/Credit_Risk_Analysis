@@ -30,6 +30,7 @@ Two possible outcomes studies for target "loan_status_high_risk" acceptance (1) 
 - Combination Sampling
 ![Combination%20Sampling](https://github.com/MSF2141/Credit_Risk_Analysis/blob/170429c251b950adecf3cecb8ce9542b18a48115/Combination%20Sampling.png)
 
+[credit_risk_ensemble](https://github.com/MSF2141/Credit_Risk_Analysis/blob/7655b560c59b14e564967f4d5894a8f54e769352/credit_risk_ensemble.ipynb) code.
 - Balanced Random Forest Classifier
 ![Balanced%20Random%20Forest%20Classifier](https://github.com/MSF2141/Credit_Risk_Analysis/blob/81fad012eedc5876ff4b430e7dc04c8cc01a2143/Balanced%20Random%20Forest%20Classifier.png)
 
