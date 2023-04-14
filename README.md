@@ -39,6 +39,6 @@ Two possible outcomes studies for target "loan_status_high_risk" acceptance (1) 
 
 
 ## Summary
-In summary, the Balanced Random Forest Classifier model is the best model to predict crdeit risk because the model's accuracy, 0.520, and F1 score are high.
+In summary, the Balanced Random Forest Classifier model is the best model to predict crdeit risk because of the model's perfect accuracy score (1), and the highest F1 score (0.48) from all the models.
 
 
