@@ -12,10 +12,11 @@ Oversampling of the data using the RandomOverSampler and SMOTE algorithms, and u
 1. Use Resampling Models to Predict Credit Risk.
 2. Use the SMOTEENN Algorithm to Predict Credit Risk.
 3. Use Ensemble Classifiers to Predict Credit Risk.
-4. A Written Report on the Credit Risk Analysis (README.md).
 
 ## Results
-Two possible outcomes studies for target "loan_status_high_risk" acceptance (1) or rejection (0):
+Two possible outcomes were studied for target "loan_status_high_risk":
+- acceptance (1) or
+- rejection (0).
 
 [credit_risk_resampling](https://github.com/MSF2141/Credit_Risk_Analysis/blob/e3dac1e8ea263f2918c6b63b685fed13fe9cc7f9/credit_risk_resampling.ipynb) code.
 - Naive Random Oversampling
