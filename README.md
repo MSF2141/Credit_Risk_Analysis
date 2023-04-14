@@ -38,4 +38,7 @@ Two possible outcomes studies for target "loan_status_high_risk" acceptance (1) 
 ![Easy%20Ensemble%20AdaBoost%20Classifier](https://github.com/MSF2141/Credit_Risk_Analysis/blob/4c588a71d47cdd60d5b24cf4dc166285ccf4d9a7/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 
+## Summary
+In summary, the Balanced Random Forest Classifier model is the best model to predict crdeit risk because the model's accuracy, 0.520, and F1 score are high.
+
 
